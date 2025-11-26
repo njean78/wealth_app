@@ -1,6 +1,5 @@
 streamlit==1.32.0
-QuantLib==1.33
+QuantLib==1.40
 pandas>=2.0
 numpy>=1.26
 plotly>=5.18
-
