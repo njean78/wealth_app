@@ -1,0 +1,5 @@
+build-essential
+cmake
+python3-dev
+libboost-all-dev
+libquantlib0-dev
